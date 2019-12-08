@@ -9,5 +9,6 @@ public class StringTest {
         System.out.println("git学习");
         System.out.println("come on!");
         System.out.println("好烦！");
+        System.out.println("come on!");
     }
 }
