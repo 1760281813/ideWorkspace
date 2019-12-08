@@ -5,6 +5,6 @@ public class StringTest {
         double db = 123.123;
         //保留小数位数
         System.out.println(String.format("%.2f",db));
-
+        System.out.ptintln("大厦vi");
     }
 }
