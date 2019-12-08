@@ -8,5 +8,6 @@ public class StringTest {
         System.out.println("大厦vi");
         System.out.println("git学习");
         System.out.println("come on!");
+        System.out.println("好烦！");
     }
 }
