@@ -6,5 +6,6 @@ public class StringTest {
         //保留小数位数
         System.out.println(String.format("%.2f",db));
         System.out.println("大厦vi");
+        System.out.println("git学习");
     }
 }
